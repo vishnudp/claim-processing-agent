@@ -1,0 +1,55 @@
+{
+  "claim_id": "cf766e84-6e9b-4951-8a59-3ae91c8a2249",
+  "pdf_path": "storage/uploads/HEALTHCARE CLAIM SUBMISSION_HUMAN_LOOP.pdf",
+  "raw_text": "HEALTHCARE CLAIM SUBMISSION\nClaim ID: CLM-2026-45871\nPolicy Holder Information\n-------------------------\nName: John Michael Smith\nPolicy Number: POL-78945-A\nDate of Birth: 12-Mar-1982\nCoverage Plan: Premium Gold\nIncident Information\n--------------------\nHospital: CityCare Medical Center\nAdmission Date: 10-Jun-2026\nDischarge Date: 15-Jun-2026\nDiagnosis:\nAcute Appendicitis requiring emergency surgery\nClaim Details\n-------------\nTotal Hospital Bill: 13,450\nRoom Charges: 4,500\nSurgery Charges: 6,500\nMedication Charges: 1,450\nLab Charges: 1,000\nClaim Requested Amount: 60,500\nSupporting Documents\n--------------------\nInvoice Number: INV-2026-881\nInvoice Amount: 13,450\nPolicy Coverage Details\n-----------------------\nAnnual Coverage Limit: 50,000\nCoverage Utilized This Year: 22,000\nRemaining Coverage: 28,000\nDeclaration\n------------\nI certify that the information provided is true and accurate.\nSigned:\nJohn Michael Smith\n",
+  "metadata": {
+    "file_name": "HEALTHCARE CLAIM SUBMISSION_HUMAN_LOOP.pdf",
+    "file_size_mb": 0.03,
+    "page_count": 1,
+    "upload_time": "2026-08-02 23:25:48.514056",
+    "document_type": "insurance_claim"
+  },
+  "entities": {
+    "insured_name": "John Michael Smith",
+    "patient_name": "John Michael Smith",
+    "policy_number": "POL-78945-A",
+    "hospital_name": "CityCare Medical Center",
+    "diagnosis": null,
+    "claim_requested_amount": 60500,
+    "total_hospital_bill": 13450,
+    "annual_coverage_limit": 50000,
+    "remaining_coverage": 28000,
+    "invoice_number": "INV-2026-881"
+  },
+  "validation_results": {
+    "policy": {
+      "status": "PASS"
+    },
+    "coverage": {
+      "status": "FAIL",
+      "reason": "Claim exceeds remaining coverage",
+      "claim_amount": 60500,
+      "remaining_coverage": 28000
+    },
+    "invoice": {
+      "status": "PASS"
+    },
+    "duplicate": {
+      "status": "FAIL",
+      "message": "Duplicate policy detected"
+    }
+  },
+  "hitl_required": true,
+  "exception_summary": "{\n  \"claim_data\": {\n    \"insured_name\": \"John Michael Smith\",\n    \"patient_name\": \"John Michael Smith\",\n    \"policy_number\": \"POL-78945-A\",\n    \"hospital_name\": \"CityCare Medical Center\",\n    \"diagnosis\": null,\n    \"claim_requested_amount\": 60500,\n    \"total_hospital_bill\": 13450,\n    \"annual_coverage_limit\": 50000,\n    \"remaining_coverage\": 28000,\n    \"invoice_number\": \"INV-2026-881\"\n  },\n  \"validation_results\": {\n    \"policy\": {\n      \"status\": \"PASS\"\n    },\n    \"coverage\": {\n      \"status\": \"FAIL\",\n      \"reason\": \"Claim exceeds remaining coverage\",\n      \"claim_amount\": 60500,\n      \"remaining_coverage\": 28000\n    },\n    \"invoice\": {\n      \"status\": \"PASS\"\n    },\n    \"duplicate\": {\n      \"status\": \"FAIL\",\n      \"message\": \"Duplicate policy detected\"\n    }\n  }\n}",
+  "human_decision": "",
+  "final_letter": "\n====================================================\n\n          HEALTHCARE CLAIM REVIEW REQUIRED\n\n====================================================\n\n\nDate:\n02-Aug-2026\n\n\nTo,\n\nJohn Michael Smith\n\n\nSubject: Claim Processing Notification\nPolicy Number: POL-78945-A\n\n\nDear John Michael Smith,\n\n\n\nWe have received and processed your healthcare claim.\nThe claim requires additional review by our claims\nspecialist before final approval.\n\n\n\nClaim Details\n----------------------------------------------------\n\nHospital:\nCityCare Medical Center\n\n\nDiagnosis:\nNone\n\n\nClaim Requested Amount:\n\u20b960,500\n\n\nHospital Bill Amount:\n\u20b913,450\n\n\nInvoice Number:\nINV-2026-881\n\n\n\nPolicy Information\n----------------------------------------------------\n\nAnnual Coverage Limit:\n\u20b950,000\n\n\nAvailable Coverage:\n\u20b928,000\n\n\n\nDecision\n----------------------------------------------------\n\nPENDING HUMAN REVIEW\n\n\n\n\nReviewer Action Required:\n\nThis claim has exceeded the automatic processing\nthreshold and requires manual verification.\n\nPlease review:\n\n\u2713 Claim amount\n\u2713 Supporting documents\n\u2713 Policy eligibility\n\u2713 Coverage availability\n\n\nCurrent Status:\nWAITING FOR HUMAN REVIEW\n\n\n\nThank you for choosing our healthcare insurance\nservices.\n\n\nRegards,\n\nClaims Processing Department\n\n====================================================\n",
+  "status": "APPROVED",
+  "progress": 0,
+  "entity_stage": "completed",
+  "entity_progress": 100,
+  "review": {
+    "decision": "Approve",
+    "notes": "approved",
+    "reviewed_at": "2026-08-02T23:33:30.138752"
+  }
+}

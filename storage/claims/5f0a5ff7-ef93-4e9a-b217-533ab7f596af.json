@@ -1,0 +1,56 @@
+{
+  "claim_id": "5f0a5ff7-ef93-4e9a-b217-533ab7f596af",
+  "pdf_path": "storage/uploads/HEALTHCARE CLAIM SUBMISSION 1.pdf",
+  "raw_text": "HEALTHCARE CLAIM SUBMISSION\nClaim ID: CLM-2026-98765\nPolicy Holder Information\n-------------------------\nName: Robert Anderson\nPolicy Number: POL-2025-GOLD-99881\nDate of Birth: 18-May-1975\nCoverage Plan: Platinum Health Plus\nPatient Information\n-------------------\nPatient Name: Emily Anderson\nRelationship with Policy Holder: Spouse\nPatient ID: PAT-778899\nIncident Information\n--------------------\nHospital: MetroCare Advanced Medical Institute\nHospital Registration Number: HOSP-445566\nAdmission Date: 02-Jul-2026\nDischarge Date: 21-Jul-2026\nEmergency Admission: Yes\nDiagnosis:\nSevere cardiac condition requiring emergency angioplasty,\ncoronary stent placement, ICU monitoring and post-operative care.\nDoctor Information\n------------------\nPrimary Doctor:\nDr. Sarah Williams\nSpecialization:\nCardiology\nMedical Registration Number:\nMED-778812\nClaim Details\n-------------\nTreatment Summary:\nICU Charges: 85,000\nOperation Theatre Charges: 125,000\nCardiac Procedure Charges: 450,000\nStent Implant Charges: 275,000\nDoctor Consultation Charges: 65,000\nMedicine Charges: 95,000\nDiagnostic Tests: 45,000\nRoom Charges: 120,000\nNursing Charges: 35,000\nTotal Hospital Bill: 1,295,000\nClaim Requested Amount: 1,150,000\nPrevious Claims History\n-----------------------\nPrevious Claim ID: CLM-2025-445566\nPrevious Claim Amount:\n350,000\nPrevious Claim Status:\nApproved\nSupporting Documents\n--------------------\nInvoice Number:\nINV-METRO-2026-778899\nInvoice Amount:\n1,295,000\nDocuments Attached:\n- Hospital Final Bill\n- ICU Statement\n- Surgery Report\n- Pharmacy Bills\n- Diagnostic Reports\n- Doctor Certificate\n- Discharge Summary\nPolicy Coverage Details\n-----------------------\nAnnual Coverage Limit:\n1,000,000\nCoverage Utilized This Year:\n850,000\nRemaining Coverage:\n150,000\nCoverage Exceptions\n-------------------\nThe requested claim amount exceeds the remaining policy coverage.\nAdditional approval required from insurance medical review board.\nFraud Indicators\n----------------\nMultiple high-value procedures detected.\nClaim amount significantly exceeds previous claim average.\nManual medical review recommended.\nDeclaration\n------------\nI certify that all information provided in this claim submission\nis complete, accurate and supported by valid medical documents.\nSubmitted By:\nRobert Anderson\nSubmission Date:\n02-Aug-2026\n",
+  "metadata": {
+    "file_name": "HEALTHCARE CLAIM SUBMISSION 1.pdf",
+    "file_size_mb": 0.04,
+    "page_count": 3,
+    "upload_time": "2026-08-02 23:41:05.153214",
+    "document_type": "insurance_claim"
+  },
+  "entities": {
+    "insured_name": "Robert Anderson",
+    "patient_name": "Emily Anderson",
+    "policy_number": "POL-2025-GOLD-99881",
+    "hospital_name": "MetroCare Advanced Medical Institute",
+    "diagnosis": "Severe cardiac condition requiring emergency angioplasty, coronary stent placement, ICU monitoring and post-operative care.",
+    "claim_requested_amount": 1150000,
+    "total_hospital_bill": 1295000,
+    "annual_coverage_limit": 1000000,
+    "remaining_coverage": 150000,
+    "invoice_number": "INV-METRO-2026-778899"
+  },
+  "validation_results": {
+    "policy": {
+      "status": "FAIL",
+      "message": "Policy not found"
+    },
+    "coverage": {
+      "status": "FAIL",
+      "reason": "Claim exceeds remaining coverage",
+      "claim_amount": 1150000,
+      "remaining_coverage": 150000
+    },
+    "invoice": {
+      "status": "PASS"
+    },
+    "duplicate": {
+      "status": "PASS",
+      "message": "No duplicate found"
+    }
+  },
+  "hitl_required": true,
+  "exception_summary": "{\n  \"claim_data\": {\n    \"insured_name\": \"Robert Anderson\",\n    \"patient_name\": \"Emily Anderson\",\n    \"policy_number\": \"POL-2025-GOLD-998:81\",\n    \"hospital_name\": \"MetroCare Advanced Medical Institute\",\n    \"diagnosis\": \"Severe cardiac condition requiring emergency angioplasty, coronary stent placement, ICU monitoring and post-operative care.\",\n    \"claim_requested_amount\": 1150000,\n    \"total_hospital_bill\": 1295000,\n    \"annual_coverage_limit\": 1000000,\n    \"remaining_coverage\": 150000,\n    \"invoice_number\": \"INV-METRO-2026-778899\"\n  },\n  \"validation_results\": {\n    \"policy\": {\n      \"status\": \"FAIL\",\n      \"message\": \"Policy not found\"\n    },\n    \"coverage\": {\n      \"status\": \"FAIL\",\n      \"reason\": \"Claim exceeds remaining coverage\",\n      \"claim_amount\": 1150000,\n      \"remaining_coverage\": 150000\n    },\n    \"invoice\": {\n      \"status\": \"PASS\",\n      \"message\": \"Invoice verified\"\n    },\n    \"duplicate\": {\n      \"status\": \"PASS\",\n      \"message\": \"No duplicate found\"\n    }\n  }\n}",
+  "human_decision": "",
+  "final_letter": "\n====================================================\n\n          HEALTHCARE CLAIM REVIEW REQUIRED\n\n====================================================\n\n\nDate:\n02-Aug-2026\n\n\nTo,\n\nRobert Anderson\n\n\nSubject: Claim Processing Notification\nPolicy Number: POL-2025-GOLD-99881\n\n\nDear Robert Anderson,\n\n\n\nWe have received and processed your healthcare claim.\nThe claim requires additional review by our claims\nspecialist before final approval.\n\n\n\nClaim Details\n----------------------------------------------------\n\nHospital:\nMetroCare Advanced Medical Institute\n\n\nDiagnosis:\nSevere cardiac condition requiring emergency angioplasty, coronary stent placement, ICU monitoring and post-operative care.\n\n\nClaim Requested Amount:\n\u20b91,150,000\n\n\nHospital Bill Amount:\n\u20b91,295,000\n\n\nInvoice Number:\nINV-METRO-2026-778899\n\n\n\nPolicy Information\n----------------------------------------------------\n\nAnnual Coverage Limit:\n\u20b91,000,000\n\n\nAvailable Coverage:\n\u20b9150,000\n\n\n\nDecision\n----------------------------------------------------\n\nPENDING HUMAN REVIEW\n\n\n\n\nReviewer Action Required:\n\nThis claim has exceeded the automatic processing\nthreshold and requires manual verification.\n\nPlease review:\n\n\u2713 Claim amount\n\u2713 Supporting documents\n\u2713 Policy eligibility\n\u2713 Coverage availability\n\n\nCurrent Status:\nWAITING FOR HUMAN REVIEW\n\n\n\nThank you for choosing our healthcare insurance\nservices.\n\n\nRegards,\n\nClaims Processing Department\n\n====================================================\n",
+  "status": "REJECTED",
+  "progress": 0,
+  "entity_stage": "completed",
+  "entity_progress": 100,
+  "review": {
+    "decision": "Reject",
+    "notes": "",
+    "reviewed_at": "2026-08-02T23:42:40.340584"
+  }
+}

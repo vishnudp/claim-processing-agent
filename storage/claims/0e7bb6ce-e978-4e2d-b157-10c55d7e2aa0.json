@@ -1,0 +1,49 @@
+{
+  "claim_id": "0e7bb6ce-e978-4e2d-b157-10c55d7e2aa0",
+  "pdf_path": "storage/uploads/HEALTHCARE CLAIM SUBMISSION.pdf",
+  "raw_text": "HEALTHCARE CLAIM SUBMISSION\nClaim ID: CLM-2026-45871\nPolicy Holder Information\n-------------------------\nName: John Michael Smith\nPolicy Number: POL-78945-A\nDate of Birth: 12-Mar-1982\nCoverage Plan: Premium Gold\nIncident Information\n--------------------\nHospital: CityCare Medical Center\nAdmission Date: 10-Jun-2026\nDischarge Date: 15-Jun-2026\nDiagnosis:\nAcute Appendicitis requiring emergency surgery\nClaim Details\n-------------\nTotal Hospital Bill: 13,450\nRoom Charges: 4,500\nSurgery Charges: 6,500\nMedication Charges: 1,450\nLab Charges: 1,000\nClaim Requested Amount: 12,500\nSupporting Documents\n--------------------\nInvoice Number: INV-2026-881\nInvoice Amount: 13,450\nPolicy Coverage Details\n-----------------------\nAnnual Coverage Limit: 50,000\nCoverage Utilized This Year: 22,000\nRemaining Coverage: 28,000\nDeclaration\n------------\nI certify that the information provided is true and accurate.\nSigned:\nJohn Michael Smith\n",
+  "metadata": {
+    "file_name": "HEALTHCARE CLAIM SUBMISSION.pdf",
+    "file_size_mb": 0.03,
+    "page_count": 1,
+    "upload_time": "2026-08-02 23:18:00.317940",
+    "document_type": "insurance_claim"
+  },
+  "entities": {
+    "insured_name": "John Michael Smith",
+    "patient_name": "John Michael Smith",
+    "policy_number": "POL-78945-A",
+    "hospital_name": "CityCare Medical Center",
+    "diagnosis": null,
+    "claim_requested_amount": 12500,
+    "total_hospital_bill": 13450,
+    "annual_coverage_limit": 50000,
+    "remaining_coverage": 28000,
+    "invoice_number": "INV-2026-881"
+  },
+  "validation_results": {
+    "policy": {
+      "status": "PASS"
+    },
+    "coverage": {
+      "status": "PASS",
+      "reason": "Coverage available",
+      "remaining_coverage": 28000
+    },
+    "invoice": {
+      "status": "PASS"
+    },
+    "duplicate": {
+      "status": "PASS",
+      "message": "No duplicate found"
+    }
+  },
+  "hitl_required": false,
+  "exception_summary": "",
+  "human_decision": "",
+  "final_letter": "\n====================================================\n\n          HEALTHCARE CLAIM APPROVAL\n\n====================================================\n\n\nDate:\n02-Aug-2026\n\n\nTo,\n\nJohn Michael Smith\n\n\nSubject: Claim Processing Notification\nPolicy Number: POL-78945-A\n\n\nDear John Michael Smith,\n\n\n\nWe are pleased to inform you that your healthcare\nclaim has been successfully processed and approved.\n\n\n\nClaim Details\n----------------------------------------------------\n\nHospital:\nCityCare Medical Center\n\n\nDiagnosis:\nNone\n\n\nClaim Requested Amount:\n\u20b912,500\n\n\nHospital Bill Amount:\n\u20b913,450\n\n\nInvoice Number:\nINV-2026-881\n\n\n\nPolicy Information\n----------------------------------------------------\n\nAnnual Coverage Limit:\n\u20b950,000\n\n\nAvailable Coverage:\n\u20b928,000\n\n\n\nDecision\n----------------------------------------------------\n\nAPPROVED\n\n\n\n\nThank you for choosing our healthcare insurance\nservices.\n\n\nRegards,\n\nClaims Processing Department\n\n====================================================\n",
+  "status": "AUTO_APPROVED",
+  "progress": 0,
+  "entity_stage": "completed",
+  "entity_progress": 100
+}

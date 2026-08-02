@@ -1,0 +1,139 @@
+HEALTHCARE CLAIM SUBMISSION
+
+Claim ID: CLM-2026-98765
+
+Policy Holder Information
+-------------------------
+Name: Robert Anderson
+Policy Number: POL-2025-GOLD-99881
+Date of Birth: 18-May-1975
+Coverage Plan: Platinum Health Plus
+
+Patient Information
+-------------------
+Patient Name: Emily Anderson
+Relationship with Policy Holder: Spouse
+Patient ID: PAT-778899
+
+Incident Information
+--------------------
+Hospital: MetroCare Advanced Medical Institute
+Hospital Registration Number: HOSP-445566
+
+Admission Date: 02-Jul-2026
+Discharge Date: 21-Jul-2026
+
+Emergency Admission: Yes
+
+Diagnosis:
+Severe cardiac condition requiring emergency angioplasty,
+coronary stent placement, ICU monitoring and post-operative care.
+
+Doctor Information
+------------------
+Primary Doctor:
+Dr. Sarah Williams
+
+Specialization:
+Cardiology
+
+Medical Registration Number:
+MED-778812
+
+Claim Details
+-------------
+
+Treatment Summary:
+
+ICU Charges: 85,000
+Operation Theatre Charges: 125,000
+Cardiac Procedure Charges: 450,000
+Stent Implant Charges: 275,000
+Doctor Consultation Charges: 65,000
+Medicine Charges: 95,000
+Diagnostic Tests: 45,000
+Room Charges: 120,000
+Nursing Charges: 35,000
+
+Total Hospital Bill: 1,295,000
+
+
+Claim Requested Amount: 1,150,000
+
+
+Previous Claims History
+-----------------------
+
+Previous Claim ID: CLM-2025-445566
+
+Previous Claim Amount:
+350,000
+
+Previous Claim Status:
+Approved
+
+
+Supporting Documents
+--------------------
+
+Invoice Number:
+INV-METRO-2026-778899
+
+Invoice Amount:
+1,295,000
+
+Documents Attached:
+
+- Hospital Final Bill
+- ICU Statement
+- Surgery Report
+- Pharmacy Bills
+- Diagnostic Reports
+- Doctor Certificate
+- Discharge Summary
+
+
+Policy Coverage Details
+-----------------------
+
+Annual Coverage Limit:
+1,000,000
+
+Coverage Utilized This Year:
+850,000
+
+Remaining Coverage:
+150,000
+
+
+Coverage Exceptions
+-------------------
+
+The requested claim amount exceeds the remaining policy coverage.
+
+Additional approval required from insurance medical review board.
+
+
+Fraud Indicators
+----------------
+
+Multiple high-value procedures detected.
+
+Claim amount significantly exceeds previous claim average.
+
+Manual medical review recommended.
+
+
+Declaration
+------------
+
+I certify that all information provided in this claim submission
+is complete, accurate and supported by valid medical documents.
+
+
+Submitted By:
+
+Robert Anderson
+
+Submission Date:
+02-Aug-2026

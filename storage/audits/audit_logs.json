@@ -1,0 +1,170 @@
+[
+  {
+    "timestamp": "2026-08-02 23:18:00",
+    "message": "23:18:00 - Workflow Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:18:00",
+    "message": "23:18:00 - OCR Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:18:00",
+    "message": "23:18:00 - Metadata Extraction Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:18:00",
+    "message": "23:18:00 - OCR Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:18:00",
+    "message": "23:18:00 - Metadata Extraction Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:18:00",
+    "message": "23:18:00 - Document Chunking Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:18:00",
+    "message": "23:18:00 - Parallel Extraction Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:18:32",
+    "message": "23:18:32 - Entity Merge Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:18:32",
+    "message": "23:18:32 - Validation Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:18:32",
+    "message": "23:18:32 - Validation Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:18:32",
+    "message": "23:18:32 - Decision Routing Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:18:32",
+    "message": "23:18:32 - Auto Approved - Claim Amount: $12500"
+  },
+  {
+    "timestamp": "2026-08-02 23:18:32",
+    "message": "23:18:32 - Approval Letter Generated"
+  },
+  {
+    "timestamp": "2026-08-02 23:18:32",
+    "message": "23:18:32 - Workflow Completed Successfully"
+  },
+  {
+    "timestamp": "2026-08-02 23:21:20",
+    "message": "23:21:20 - Workflow Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:21:20",
+    "message": "23:21:20 - OCR Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:21:20",
+    "message": "23:21:20 - Metadata Extraction Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:21:20",
+    "message": "23:21:20 - OCR Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:21:20",
+    "message": "23:21:20 - Metadata Extraction Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:21:20",
+    "message": "23:21:20 - Document Chunking Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:21:20",
+    "message": "23:21:20 - Parallel Extraction Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:21:35",
+    "message": "23:21:35 - Entity Merge Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:21:35",
+    "message": "23:21:35 - Validation Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:21:35",
+    "message": "23:21:35 - Validation Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:21:35",
+    "message": "23:21:35 - Decision Routing Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:21:35",
+    "message": "23:21:35 - Auto Approved - Claim Amount: $12500"
+  },
+  {
+    "timestamp": "2026-08-02 23:21:35",
+    "message": "23:21:35 - Approval Letter Generated"
+  },
+  {
+    "timestamp": "2026-08-02 23:21:35",
+    "message": "23:21:35 - Workflow Completed Successfully"
+  },
+  {
+    "timestamp": "2026-08-02 23:25:48",
+    "message": "23:25:48 - Workflow Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:25:48",
+    "message": "23:25:48 - OCR Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:25:48",
+    "message": "23:25:48 - Metadata Extraction Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:25:48",
+    "message": "23:25:48 - OCR Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:25:48",
+    "message": "23:25:48 - Metadata Extraction Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:25:48",
+    "message": "23:25:48 - Document Chunking Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:25:48",
+    "message": "23:25:48 - Parallel Extraction Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:26:06",
+    "message": "23:26:06 - Entity Merge Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:26:06",
+    "message": "23:26:06 - Validation Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:26:06",
+    "message": "23:26:06 - Validation Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:26:06",
+    "message": "23:26:06 - Decision Routing Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:26:06",
+    "message": "23:26:06 - HITL Triggered - Claim Amount: $60500"
+  },
+  {
+    "timestamp": "2026-08-02 23:26:38",
+    "message": "23:26:38 - Exception Summary Generated"
+  },
+  {
+    "timestamp": "2026-08-02 23:26:38",
+    "message": "23:26:38 - Workflow Completed Successfully"
+  }
+]

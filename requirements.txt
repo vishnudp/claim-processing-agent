@@ -1,0 +1,15 @@
+langgraph
+langchain
+langchain-community
+streamlit
+pdfplumber
+pymupdf
+pytesseract
+pillow
+pydantic
+requests
+pandas
+python-dotenv
+diskcache
+tenacity
+email-validator

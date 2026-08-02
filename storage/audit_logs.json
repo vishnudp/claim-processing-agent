@@ -1,0 +1,614 @@
+[
+  {
+    "timestamp": "2026-08-02 23:41:05",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Workflow Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:41:05",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "OCR Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:41:05",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Metadata Extraction Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:41:05",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "OCR Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:41:05",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Metadata Extraction Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:41:05",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Document Chunking Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:41:05",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Parallel Extraction Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:41:37",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Entity Merge Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:41:37",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Validation Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:41:37",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Validation Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:41:37",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Decision Routing Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:41:37",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "HITL Triggered - Claim Amount: $1150000"
+  },
+  {
+    "timestamp": "2026-08-02 23:42:12",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Exception Summary Generated"
+  },
+  {
+    "timestamp": "2026-08-02 23:42:12",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Workflow Completed Successfully"
+  },
+  {
+    "timestamp": "2026-08-02 23:43:06",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Workflow Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:43:06",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "OCR Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:43:06",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Metadata Extraction Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:43:06",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "OCR Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:43:06",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Metadata Extraction Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:43:06",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Document Chunking Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:43:06",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Parallel Extraction Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:47:04",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Entity Merge Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:47:04",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Validation Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:47:04",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Validation Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:47:04",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Decision Routing Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:47:04",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Auto Approved - Claim Amount: $0"
+  },
+  {
+    "timestamp": "2026-08-02 23:47:04",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Approval Letter Generated"
+  },
+  {
+    "timestamp": "2026-08-02 23:47:04",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Workflow Completed Successfully"
+  },
+  {
+    "timestamp": "2026-08-02 23:49:57",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Workflow Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:49:57",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "OCR Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:49:57",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Metadata Extraction Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:49:57",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "OCR Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:49:57",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Metadata Extraction Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:49:57",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Document Chunking Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:49:57",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Parallel Extraction Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:50:16",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Entity Merge Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:50:16",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Validation Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:50:16",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Validation Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:50:16",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Decision Routing Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:50:16",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "HITL Triggered - Claim Amount: $1150000"
+  },
+  {
+    "timestamp": "2026-08-02 23:50:49",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Workflow Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:50:49",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "OCR Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:50:49",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Metadata Extraction Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:50:49",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "OCR Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:50:49",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Metadata Extraction Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:50:49",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Document Chunking Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:50:49",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Parallel Extraction Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:52:03",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Entity Merge Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:52:03",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Validation Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:52:03",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Validation Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:52:03",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Decision Routing Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:52:03",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Auto Approved - Claim Amount: $0"
+  },
+  {
+    "timestamp": "2026-08-02 23:52:03",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Approval Letter Generated"
+  },
+  {
+    "timestamp": "2026-08-02 23:52:03",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Workflow Completed Successfully"
+  },
+  {
+    "timestamp": "2026-08-02 23:54:02",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Workflow Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:54:02",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "OCR Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:54:02",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Metadata Extraction Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:54:02",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "OCR Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:54:02",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Metadata Extraction Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:54:02",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Document Chunking Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:54:02",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Parallel Extraction Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:55:13",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Entity Merge Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:55:13",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Validation Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:55:13",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Validation Completed"
+  },
+  {
+    "timestamp": "2026-08-02 23:55:13",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Decision Routing Started"
+  },
+  {
+    "timestamp": "2026-08-02 23:55:13",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Auto Approved - Claim Amount: $0"
+  },
+  {
+    "timestamp": "2026-08-02 23:55:13",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Approval Letter Generated"
+  },
+  {
+    "timestamp": "2026-08-02 23:55:13",
+    "claim_id": "",
+    "policy_number": "",
+    "insured_name": "",
+    "stage": "",
+    "status": "",
+    "message": "Workflow Completed Successfully"
+  }
+]

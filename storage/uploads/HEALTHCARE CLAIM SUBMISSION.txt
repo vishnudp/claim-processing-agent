@@ -1,0 +1,48 @@
+HEALTHCARE CLAIM SUBMISSION
+
+Claim ID: CLM-2026-45871
+
+Policy Holder Information
+-------------------------
+Name: John Michael Smith
+Policy Number: POL-78945-A
+Date of Birth: 12-Mar-1982
+Coverage Plan: Premium Gold
+
+Incident Information
+--------------------
+Hospital: CityCare Medical Center
+Admission Date: 10-Jun-2026
+Discharge Date: 15-Jun-2026
+
+Diagnosis:
+Acute Appendicitis requiring emergency surgery
+
+Claim Details
+-------------
+Total Hospital Bill: 13,450
+
+Room Charges: 4,500
+Surgery Charges: 6,500
+Medication Charges: 1,450
+Lab Charges: 1,000
+
+Claim Requested Amount: 12,500
+
+Supporting Documents
+--------------------
+Invoice Number: INV-2026-881
+Invoice Amount: 13,450
+
+Policy Coverage Details
+-----------------------
+Annual Coverage Limit: 50,000
+Coverage Utilized This Year: 22,000
+Remaining Coverage: 28,000
+
+Declaration
+------------
+I certify that the information provided is true and accurate.
+
+Signed:
+John Michael Smith
