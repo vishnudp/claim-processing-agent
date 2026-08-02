@@ -80,7 +80,7 @@ The solution is designed to showcase:
 
 ### Caching
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/4700518/630278210-c3d8e4a0-2bdf-44b1-8eee-fdfd3aa8b583.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T200259Z&X-Amz-Expires=300&X-Amz-Signature=9a58d57bd9c98eb7a0dbda21241d25360f0b4116943db0ce95b11f88f046493d&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng"/>
+<img src="docs/architecture-diagram.png" width="1200">
 
 
 
